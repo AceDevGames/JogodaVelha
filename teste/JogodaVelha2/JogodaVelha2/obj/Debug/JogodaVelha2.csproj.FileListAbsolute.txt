@@ -1,0 +1,12 @@
+C:\Users\rodri\source\repos\JogodaVelha2\JogodaVelha2\bin\Debug\JogodaVelha2.exe.config
+C:\Users\rodri\source\repos\JogodaVelha2\JogodaVelha2\bin\Debug\JogodaVelha2.exe
+C:\Users\rodri\source\repos\JogodaVelha2\JogodaVelha2\bin\Debug\JogodaVelha2.pdb
+C:\Users\rodri\source\repos\JogodaVelha2\JogodaVelha2\obj\Debug\JogodaVelha2.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\JogodaVelha2\JogodaVelha2\obj\Debug\JogodaVelha2.Form1.resources
+C:\Users\rodri\source\repos\JogodaVelha2\JogodaVelha2\obj\Debug\JogodaVelha2.Properties.Resources.resources
+C:\Users\rodri\source\repos\JogodaVelha2\JogodaVelha2\obj\Debug\JogodaVelha2.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\JogodaVelha2\JogodaVelha2\obj\Debug\JogodaVelha2.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\JogodaVelha2\JogodaVelha2\obj\Debug\JogodaVelha2.exe
+C:\Users\rodri\source\repos\JogodaVelha2\JogodaVelha2\obj\Debug\JogodaVelha2.pdb
+C:\Users\rodri\source\repos\JogodaVelha2\JogodaVelha2\obj\Debug\JogodaVelha2.Jogador.resources
+C:\Users\rodri\source\repos\JogodaVelha2\JogodaVelha2\obj\Debug\JogodaVelha2.Computador.resources
